@@ -5,10 +5,10 @@ This repository is for practicing creating data vizualization boards in Tableau.
 ## 🔗 Viewing Dashboards
 All of my Tableau dashboards will be published to [**my Tableau Public profile**]([https://public.tableau.com/app/profile/](https://public.tableau.com/app/profile/ray7771/vizzes)) 
 
-Each folder includes:
-- ✅ The cleaned dataset used
-- 🖼️ Preview images or GIFs of the dashboard
-- 🔗 Link to the live Tableau Public dashboard
+Each visual includes:
+- The cleaned dataset used (I will disclose if it is data pulled from Kaggle or randomly generated)
+- Preview images or GIFs of the dashboard
+- Link to the live Tableau Public dashboard
 
 
 ## 🧰 Tools & Skills Demonstrated
