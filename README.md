@@ -23,7 +23,7 @@ Each visual includes:
 ## 📁 Project List
 
 ### 1. Faculty Compensation & Research Equity Analysis (Created April 2025)
-🖼️ Analyzes the correlation between faculty research activity and salary to identify potential discrepancies between professors who conduct research and those who do not.
+🖼️ Analyzes the correlation between faculty research activity and salary to identify potential pay discrepancies between professors who conduct research and those who do not.
 
 ### Work in Progress (Ongoing)
 ⚙️ Future projects will explore finance and healthcare trends
